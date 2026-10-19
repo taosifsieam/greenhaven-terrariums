@@ -1,0 +1,14 @@
+{
+  "name": "GreenHaven Terrariums",
+  "short_name": "GreenHaven",
+  "description": "Handcrafted terrariums. Small ecosystems. Big character.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1b3a2b",
+  "theme_color": "#1b3a2b",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
